@@ -1,0 +1,6 @@
+{
+  "name": "Pocket",
+  "description": "A minimalist expense and balance tracker to effortlessly manage daily expenses, track spending, and organize finances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
